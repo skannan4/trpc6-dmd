@@ -9,3 +9,5 @@ The following files are available:
 - `counts.csv` and `metadata.csv`: Counts (mapped by `STAR` and counted with `featureCounts`) for this bulk RNA-seq experiment.
 
 - `phenotype_good.txt`: Metadata for the cells in the study. In particular, this includes metadata for only the good barcodes (e.g. not those that had collisions), so those working from `gene_mult.mtx` should use this to subset good barcodes.
+
+Please feel free to email or raise an issue if any other materials are desired!
